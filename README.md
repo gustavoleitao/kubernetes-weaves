@@ -1,2 +1,2 @@
 # kubernetes-weaves
-Weaves network to Kubernetes cluster.
+Weaves network configuration to Kubernetes cluster.
