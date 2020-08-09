@@ -1,5 +1,5 @@
 # kubernetes-weaves
-Weaves network configuration to Kubernetes cluster.
+Weaves network configuration to Kubernetes cluster including improvement detailed in https://github.com/weaveworks/weave/issues/3816 
 
 ## Gettin start
 
